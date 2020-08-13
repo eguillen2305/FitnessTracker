@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 // PORT
 const PORT = process.env.PORT || 4000;
 
-//Middleware
+//Middleware -------
 const app = express();
 
 app.use(logger("dev"));
