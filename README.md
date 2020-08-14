@@ -26,8 +26,6 @@ Fitness tracker back and front-end
  
  ![](http://williamavasquez.herokuapp.com/img/node.png)
  
- ![](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg)
-
 
 ## Author
 eguillen2035
