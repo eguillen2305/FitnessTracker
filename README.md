@@ -9,7 +9,7 @@
 Fitness tracker back and front-end
 
 
-![GIF DEMO](README-DEMO.gif)
+![Screenshot1](https://github.com/eguillen2305/FitnessTracker/blob/master/Screenshots/Screenshot1.png)
 
 ## How to use the Application
 
