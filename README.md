@@ -13,6 +13,10 @@ Fitness tracker back and front-end
 
 ## How to use the Application
 
+Access to Heroku:
+https://fitnesstracker2305.herokuapp.com/
+
+
 ### Local Demo Install
 1. first clone the application to your local file
 `git clone`
