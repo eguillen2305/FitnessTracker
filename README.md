@@ -29,7 +29,12 @@ https://fitnesstracker2305.herokuapp.com/
  ![](http://williamavasquez.herokuapp.com/img/js.png)
  
  ![](http://williamavasquez.herokuapp.com/img/node.png)
- 
+Express
+MLab MongoDB
+MongoDB
+Mongoose
+Robo 3T
+
 
 ## Author
 eguillen2035
