@@ -6,7 +6,7 @@
 
 ## Summary
 
-Fitness tracker back and front-end
+Fitness Tracking application to help keep track of resistance and cardio based workouts. 
 
 
 ![Screenshot1](https://github.com/eguillen2305/FitnessTracker/blob/master/Screenshots/Screenshot1.png)
@@ -22,8 +22,7 @@ https://fitnesstracker2305.herokuapp.com/
 `git clone`
 2. install the packages with npm `npm install`
 3. run the server with `node app.js`
-4. Answer the prompts
-5. The template will be then create a file called "team.html" in the output folder. 
+4. run on local host on chrome "4000"
 
 ## Technology Used
  ![](http://williamavasquez.herokuapp.com/img/js.png)
