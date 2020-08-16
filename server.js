@@ -8,7 +8,6 @@ const PORT = process.env.PORT || 4000;
 
 //Middleware -------
 const app = express();
-
 app.use(logger('dev'));
 
 app.use(express.urlencoded({ extended: true }));
@@ -28,6 +27,5 @@ app.listen(PORT, () => {
 
 //Routes API, Get ROUTES add APIS/ WORKOUT/RANGE
 
-//CREATE ROUTES FOR THAT SO i CAN SEE WORKOUTS ON THE STATS 
+//CREATE ROUTES SO THAT SO i CAN SEE WORKOUTS ON THE STATS 
 
-//sHOUDL BE SET AFTER THAT

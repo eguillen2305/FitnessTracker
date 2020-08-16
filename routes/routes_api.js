@@ -74,5 +74,5 @@ router.post('/api/workouts/range', (req, res) => {
 		});
 });
 
-// EXPORTS
+
 module.exports = router;
